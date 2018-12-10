@@ -1,10 +1,10 @@
 {
-  "name": "vue-tools",
+  "name": "jiangtao-vue-tools",
   "version": "0.1.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-bundle": "vue-cli-service build --target lib --name vue-tools ./src/components/index.js"
+    "build-lib": "vue-cli-service build --target lib --name vue-tools ./src/components/index.js"
   },
   "dependencies": {
     "vue": "^2.5.17"
