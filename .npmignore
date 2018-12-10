@@ -1,0 +1,5 @@
+src/
+
+# 忽略指定文件
+babel.config.js
+*.map
